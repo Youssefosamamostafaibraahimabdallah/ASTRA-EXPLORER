@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+.venv-geo/
+__pycache__/
+*.py[cod]
+
+node_modules/
+.next/
+out/
+
+backend/data/
